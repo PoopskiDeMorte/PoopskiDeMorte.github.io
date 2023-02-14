@@ -1,6 +1,6 @@
 <package>
 	<id>com.poopskidemorte.pixelust</id>
-	<name>Pixel Lust</name>
+	<name>PixeLust</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -8,32 +8,21 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>snowboard</package>
+		<package>com.spark.snowboard</package>
 	</dependencies>
-	<shortDescription>This is a sample new package.</shortDescription>
+	<shortDescription>My first theme (WIP)</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>Work-in-progress</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>placeholder</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>First Release</change>
+		<change>It has 1 icon (Appstore)</change>
 	</changelog>
 	<links>
 		<link>
