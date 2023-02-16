@@ -41,10 +41,11 @@
 <div class="container">
 	<div class="card">
 		<div class="card-header">
-			None
+			Chromostereo
 		</div>
 		<div class="card-body">
-		  <p class="card-text">No packages uploaded yet, look forward to my first release.</p>
+		  <p class="card-text">A theme using an optical illusion.</p>
+			<a class="btn btn-xs btn-primary" href="depictions/?p=com.poopskidemorte.pixelust">More info</a>
 		</div>
 	</div>
 </div>
