@@ -1,6 +1,14 @@
 body {
     margin: 1em;
 }
+.buttons {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+.buttons a{
+    width: 100%;
+}
 .card {
     margin-bottom: 1em;
 }
